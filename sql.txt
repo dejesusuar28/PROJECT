@@ -1,0 +1,1 @@
+INSERT INTO `employee` (`fname`, `lname`, `age`, `salary`, `emp_id`) VALUES ('lgcarlos', 'dejesus', '40', '5000', '2'), ('christain', 'nocedo', '69', '10000', '13'), ('romeo', 'drio', '45', '15000', '17'), ('paul', 'malit', '39', '20000', '20'), ('jenard', 'nocedo', '36', '25000', '26'), ('lucky', 'fabian', '37', '30000', '45')
